@@ -19,7 +19,7 @@ White text is account name/login. Yellow text is current profile name or alias.
 
 ## About SLAC
 There is no GUI yet, but it's planned. Some day.
-The rule to get GUI version ETA:
+The rule to know GUI version ETA:
 1. Tomorrow
 2. If not yet, read point 1
 
