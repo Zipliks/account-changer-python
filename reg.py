@@ -11,6 +11,7 @@ def fetch_reg(key):
     else:
         reg_path = r"Software\Valve\Steam"
 
+    value = None
     try:
         reg_key = winreg.OpenKey(HKCU, reg_path)
         value_buffer = winreg.QueryValueEx(reg_key, key)
